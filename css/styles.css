@@ -4,7 +4,11 @@ body {
   font-family: "Lato", sans-serif;
   font-family: "Open Sans", sans-serif;
   font-family: "Poppins", sans-serif;
+  font-size: 1rem;
 }
-.para {
-  font-size: 60px;
+* {
+  font-size: 1rem;
+}
+.hide-content {
+  display: none;
 }
